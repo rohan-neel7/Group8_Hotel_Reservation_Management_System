@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 data/customers.json
 data/reservations.json
+
+group8_hotel_project/data/customers.json
+group8_hotel_project/data/reservations.json
