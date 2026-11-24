@@ -1,0 +1,32 @@
+[
+    {
+        "room_number": 101,
+        "room_type": "Standard",
+        "price_per_night": 2000.0,
+        "amenities_fee_per_night": 0.0
+    },
+    {
+        "room_number": 102,
+        "room_type": "Standard",
+        "price_per_night": 2200.0,
+        "amenities_fee_per_night": 0.0
+    },
+    {
+        "room_number": 201,
+        "room_type": "Deluxe",
+        "price_per_night": 3200.0,
+        "amenities_fee_per_night": 300.0
+    },
+    {
+        "room_number": 202,
+        "room_type": "Deluxe",
+        "price_per_night": 3500.0,
+        "amenities_fee_per_night": 300.0
+    },
+    {
+        "room_number": 301,
+        "room_type": "Suite",
+        "price_per_night": 5500.0,
+        "amenities_fee_per_night": 700.0
+    }
+]
